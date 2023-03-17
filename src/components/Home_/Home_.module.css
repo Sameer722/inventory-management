@@ -1,0 +1,151 @@
+.root {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  align-items: flex-start;
+  background-color: #f6f6f6;
+  overflow: hidden;
+}
+.image9 {
+  position: absolute;
+  left: -14px;
+  top: 196px;
+  width: 1127px;
+  height: 884px;
+  background-image:/* webpackIgnore: true */ url('assets/image9.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inventoryManagementSystem {
+  position: absolute;
+  left: 1101px;
+  top: 525px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #023246;
+  font-size: 96px;
+  line-height: 100px;
+  font-family: Aksara Bali Galang, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2em;
+}
+.textBlock2 {
+  margin-top: 10px;
+  color: #023246;
+  font-size: 96px;
+  line-height: 100px;
+  font-family: Aksara Bali Galang, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2em;
+}
+.textBlock3 {
+  margin-top: 10px;
+  color: #023246;
+  font-size: 96px;
+  line-height: 100px;
+  font-family: Aksara Bali Galang, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2em;
+}
+.rectangle12 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 89px;
+  background-color: #023246;
+}
+.logInBox {
+  position: absolute;
+  left: 1376px;
+  top: 13px;
+  width: 253px;
+  height: 63px;
+  outline: solid 1px #023246;
+  outline-offset: -1px;
+  background-color: #023246;
+}
+.signUpBox {
+  position: absolute;
+  left: 1649px;
+  top: 13px;
+  width: 253px;
+  height: 63px;
+  background-color: #023246;
+}
+.signUp {
+  color: #fff;
+  font-size: 32px;
+  line-height: 10px;
+  font-family: Aksara Bali Galang, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 1436px;
+  top: 13px;
+  width: 212px;
+  height: 48px;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.logIn {
+  color: #fff;
+  font-size: 32px;
+  line-height: 10px;
+  font-family: Aksara Bali Galang, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1em;
+  position: absolute;
+  left: 1708px;
+  top: 13px;
+  width: 212px;
+  height: 48px;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.StreamlineYourStockAndOptimize {
+  color: #416174;
+  font-size: 32px;
+  line-height: 30px;
+  font-family: Aksara Bali Galang, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15em;
+  position: absolute;
+  left: 1101px;
+  top: 906px;
+  width: 757px;
+  height: 66px;
+  justify-content: center;
+  flex-direction: column;
+}
+.welcomeToTheApplicationForMana {
+  color: #fff;
+  font-size: 32px;
+  line-height: 30px;
+  font-family: Aksara Bali Galang, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15em;
+  position: absolute;
+  left: 20px;
+  top: 37px;
+  width: 1181px;
+  height: 52px;
+  justify-content: center;
+  flex-direction: column;
+}
+.lOGO2 {
+  position: absolute;
+  left: 1113px;
+  top: 114px;
+  width: 551px;
+  height: 357px;
+  background-image:/* webpackIgnore: true */ url('assets/lOGO2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
